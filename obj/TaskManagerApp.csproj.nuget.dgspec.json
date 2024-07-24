@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Fransua\\OneDrive\\Escritorio\\Universidad 2024\\Análisis de SIstemas II\\TaskManagerApp\\TaskManagerApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Fransua\\OneDrive\\Escritorio\\Universidad 2024\\Análisis de SIstemas II\\TaskManagerApp\\TaskManagerApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Fransua\\OneDrive\\Escritorio\\Universidad 2024\\Análisis de SIstemas II\\TaskManagerApp\\TaskManagerApp.csproj",
+        "projectName": "TaskManagerApp",
+        "projectPath": "C:\\Users\\Fransua\\OneDrive\\Escritorio\\Universidad 2024\\Análisis de SIstemas II\\TaskManagerApp\\TaskManagerApp.csproj",
+        "packagesPath": "C:\\Users\\Fransua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fransua\\OneDrive\\Escritorio\\Universidad 2024\\Análisis de SIstemas II\\TaskManagerApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fransua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

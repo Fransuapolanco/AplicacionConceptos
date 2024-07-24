@@ -1,0 +1,14 @@
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\bin\Debug\net7.0\TaskManagerApp.exe
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\bin\Debug\net7.0\TaskManagerApp.deps.json
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\bin\Debug\net7.0\TaskManagerApp.runtimeconfig.json
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\bin\Debug\net7.0\TaskManagerApp.dll
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\bin\Debug\net7.0\TaskManagerApp.pdb
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\TaskManagerApp.AssemblyInfoInputs.cache
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\TaskManagerApp.AssemblyInfo.cs
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\TaskManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\TaskManagerApp.dll
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\refint\TaskManagerApp.dll
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\TaskManagerApp.pdb
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\TaskManagerApp.genruntimeconfig.cache
+C:\Users\Fransua\OneDrive\Escritorio\Universidad 2024\Análisis de SIstemas II\TaskManagerApp\obj\Debug\net7.0\ref\TaskManagerApp.dll
